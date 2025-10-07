@@ -8,6 +8,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Introdueix el teu nom: ");
+        string nom = Console.ReadLine();
+        Console.Write("Introdueix el teu any de naixement: ");
+        string anyNaixement = Console.ReadLine();
+        string contrasenya = nom + anyNaixement;
+        Console.WriteLine("La teva contrasenya és: " + contrasenya);
     }
 }

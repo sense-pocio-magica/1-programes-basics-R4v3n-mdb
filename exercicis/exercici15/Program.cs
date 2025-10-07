@@ -6,6 +6,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        string nom = "nando";
+        string cognom = "sabino";
+
+        string nomMaj = char.ToUpper(nom[0]) + nom.Substring(1).ToLower();
+        string cognomMaj = char.ToUpper(cognom[0]) + cognom.Substring(1).ToLower();
+
+        Console.WriteLine(nomMaj + " " + cognomMaj);
     }
 }

@@ -12,6 +12,15 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Entra el número a invertir: ");
+        int num = Convert.ToInt32(Console.ReadLine());
+
+        int centenes = num / 100;
+        int desenes = (num / 10) % 10;
+        int unitats = num % 10;
+
+        int invertit = unitats * 100 + desenes * 10 + centenes;
+
+        Console.WriteLine("El número invertit és: " + invertit);
     }
 }

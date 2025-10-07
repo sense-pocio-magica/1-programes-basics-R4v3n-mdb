@@ -6,6 +6,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        string paraula = "programació";
+        int longitud = paraula.Length;
+
+        Console.WriteLine($"La paraula \"{paraula}\" té {longitud} caràcters.");
     }
 }
