@@ -1,13 +1,22 @@
-﻿namespace exercici2;
-
-/* Declara variables per emmagatzemar l’adreça d’una persona: 
-carrer, número, codi postal i població. Imprimeix el resultat 
-en una sola línia */
-
-class Program
+﻿namespace exercici2
 {
-    static void Main(string[] args)
+    class Program
     {
-        Console.WriteLine("Hello, World!");
+        static void Main(string[] args)
+        {
+            Console.Write("Introdueix el carrer: ");
+            string carrer = Console.ReadLine();
+
+            Console.Write("Introdueix el número: ");
+            int numero = int.Parse(Console.ReadLine());
+
+            Console.Write("Introdueix el codi postal: ");
+            string codiPostal = Console.ReadLine();
+
+            Console.Write("Introdueix la població: ");
+            string poblacio = Console.ReadLine();
+
+            Console.WriteLine($"{carrer}, {numero}, {codiPostal} {poblacio}");
+        }
     }
 }

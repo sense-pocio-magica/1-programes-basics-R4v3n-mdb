@@ -1,0 +1,15 @@
+C:\DAW\Programació\Programes bàsics\1-programes-basics-R4v3n-mdb\exercicis\exercici12\bin\Debug\net9.0\exercici12.exe
+C:\DAW\Programació\Programes bàsics\1-programes-basics-R4v3n-mdb\exercicis\exercici12\bin\Debug\net9.0\exercici12.deps.json
+C:\DAW\Programació\Programes bàsics\1-programes-basics-R4v3n-mdb\exercicis\exercici12\bin\Debug\net9.0\exercici12.runtimeconfig.json
+C:\DAW\Programació\Programes bàsics\1-programes-basics-R4v3n-mdb\exercicis\exercici12\bin\Debug\net9.0\exercici12.dll
+C:\DAW\Programació\Programes bàsics\1-programes-basics-R4v3n-mdb\exercicis\exercici12\bin\Debug\net9.0\exercici12.pdb
+C:\DAW\Programació\Programes bàsics\1-programes-basics-R4v3n-mdb\exercicis\exercici12\obj\Debug\net9.0\exercici12.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAW\Programació\Programes bàsics\1-programes-basics-R4v3n-mdb\exercicis\exercici12\obj\Debug\net9.0\exercici12.AssemblyInfoInputs.cache
+C:\DAW\Programació\Programes bàsics\1-programes-basics-R4v3n-mdb\exercicis\exercici12\obj\Debug\net9.0\exercici12.AssemblyInfo.cs
+C:\DAW\Programació\Programes bàsics\1-programes-basics-R4v3n-mdb\exercicis\exercici12\obj\Debug\net9.0\exercici12.csproj.CoreCompileInputs.cache
+C:\DAW\Programació\Programes bàsics\1-programes-basics-R4v3n-mdb\exercicis\exercici12\obj\Debug\net9.0\exercici12.sourcelink.json
+C:\DAW\Programació\Programes bàsics\1-programes-basics-R4v3n-mdb\exercicis\exercici12\obj\Debug\net9.0\exercici12.dll
+C:\DAW\Programació\Programes bàsics\1-programes-basics-R4v3n-mdb\exercicis\exercici12\obj\Debug\net9.0\refint\exercici12.dll
+C:\DAW\Programació\Programes bàsics\1-programes-basics-R4v3n-mdb\exercicis\exercici12\obj\Debug\net9.0\exercici12.pdb
+C:\DAW\Programació\Programes bàsics\1-programes-basics-R4v3n-mdb\exercicis\exercici12\obj\Debug\net9.0\exercici12.genruntimeconfig.cache
+C:\DAW\Programació\Programes bàsics\1-programes-basics-R4v3n-mdb\exercicis\exercici12\obj\Debug\net9.0\ref\exercici12.dll

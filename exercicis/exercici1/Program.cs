@@ -12,12 +12,19 @@ Entra el cognom: Pi
 
 Em dic Pi, Joan Pi 
 
-*/ 
+*/
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Entra el nom: ");
+        string nom = Console.ReadLine();
+
+        Console.Write("Entra el cognom: ");
+        string cognom = Console.ReadLine();
+
+        Console.WriteLine($"Em dic {cognom}, {nom} {cognom}");
     }
 }
+

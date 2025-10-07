@@ -16,6 +16,14 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.Write("Nota de pràctiques: ");
+        double practiques = Convert.ToDouble(Console.ReadLine());
+        Console.Write("Nota de l’examen: ");
+        double examen = Convert.ToDouble(Console.ReadLine());
+
+        double notaFinal = (practiques + examen) / 2;
+        int notaArrodonida = (int)Math.Round(notaFinal);
+
+        Console.WriteLine($"La nota final és {notaFinal} o sigui un {notaArrodonida}");
     }
 }
